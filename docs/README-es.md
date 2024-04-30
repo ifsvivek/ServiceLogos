@@ -2,76 +2,78 @@
 
 [English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md)
 
-# Archive ServiceLogos
+# ServiceLogos
+
+Hola, buenas a todos.
+Este es un repositorio creado por Sawaratsuki para subir logos de diversos servicios.
 
 > [!WARNING]
-> The logos here are not official logos.
+> Estos logos no son oficiales.
 
-> [!Important]
-> In no circumstances do I allow the use of a logo I created for AI learning.
+> [!IMPORTANT]  
+> No se permite bajo ningún concepto el uso de el contenido de este repositorio para el entrenamiento de IA.
 
-# License
+# Licencia
 
-## If you want to use a logo, please read this section carefully.
+## Si quieres usar un logo, por favor lee la siguiente sección atentamente
 
 > [!NOTE]
 >
-> ### Summary:
+> ### Resumen:
 >
-> - You are free to use this logo for non-commercial, non-profit purposes.
->   For example, you can print it as stickers, as icons for editors, etc.
-> - Please give the appropriate credits!
->   You are free to modify or remix it, but you must license that new work under the same license as this original logo.
-> - If you create something using this logo, mentioning me on [Twitter](https://x.com/sawaratsuki1004) when posting would be motivating!
+> - Eres libre de usar este logo para fines no comerciales y sin ánimo de lucro.
+>   Por ejemplo, puedes usarlo para imprimirlo como pegatinas, como iconos para editores, etc.
+> - ¡Por favor, no olvides atribuir los créditos apropiados!
+>   Eres libre de modificar el logo, pero debes licenciar la obra derivada bajo la misma licencia que la del logo original.
+> - Si creas algo usando este logo, ¡sería muy motivador que mencionaras a [Sawaratsuki](https://x.com/sawaratsuki1004) al publicarlo!
 
-### All items
+### Términos
 
-**CC BY-NC-SA 4.0 license is not granted for logos after ## Commit[c2cf292].**  
-**The following terms apply to logos after ## Commit[c2cf292]**
+Los logotipos posteriores al `commit[c2cf292]` no están sujetos a la licencia CC BY-NC-SA 4.0.
+Las siguientes condiciones se aplican a los logotipos posteriores al `commit[c2cf292]`.
 
-1. The creator of these logos is SAWATSUKI. Copyright is not fully relinquished.
-2. please make sure that
-   > - It is recommended that credits are clearly indicated.
-   > - You may alter or remix the work.
-   > - Use of the logo for commercial purposes (such as selling products using a logo) is prohibited. However, you may sell products using a logo if the following items are applicable.
-   >
-   > 1. when the official service wants to sell the product for commercial purposes
-   > 2. when Sawaratsuki gives permission  
-   >    (If you find any violation, please contact and report it to [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
-3. stickers and shirts can be used without permission within the scope of personal use!
+1. El creador de estos logos es Sawaratsuki. No se ha renunciado a los derechos de autor en su totalidad.
+2. Por favor, revisa los puntos siguientes:
+   > - Se recomienda atribuir el crédito apropiado. Es un gran motivador, así que se ruega hacerlo encarecidamente.
+   > - Puedes modificar los logos.
+   > - El uso comercial (como la venta de productos que lleven el logo) está prohibido. Sin embargo, se permite su venta si se cumplen las siguientes condiciones:
+   >   1. Si el representante oficial de cada servicio quiere usarlo con ánimo de lucro
+   >   2. Si se obtiene permiso de Sawaratsuki
+   >      (¡Si descubres algún incumplimiento, por favor contacta con [@Sawaratsuki](https://x.com/sawaratsuki1004) inmediatamente!)
+3. ¡Se pueden crear pegatinas, parches, etc., para uso personal sin permiso explícito!
 
-# Want a logo that's not here!
+# ¿Quieres un logo que no está aquí?
 
-Please make a request in the issues. I'll create it once confirmed.
-Depending on individual schedules, I may not be able to respond immediately, so it might take several days.
+Por favor, añádelo a "Issues". Lo diseñaremos una vez confirmado.
+Dependiendo de nuestros horarios individuales, puede que no podamos responder inmediatamente. Podría llevarnos varios días.
 
 > [!IMPORTANT]  
-> When posting a request in issues, be sure to include a request tag.
+> Cuando añadas una "Issue", asegúrate de incluir la etiqueta de "request".
 
-# For officials of each service
+# Para los representantes oficiales de cada servicio
 
-Please send a [Direct message to me](https://x.com/sawaratsuki1004) to request a logo removal.
-I will remove it immediately.
-If you would like to sell your product officially, please send a [Direct message to me](https://x.com/sawaratsuki1004) in the same way!
+Por favor envía un [mensaje directo a SAWATSUKI](https://x.com/sawaratsuki1004) para solicitar la eliminación de un logo.
+Lo eliminaremos de inmediato.
+Si están interesados en comercializar su logo de forma oficial, por favor envíen un [mensaje directo a SAWATSUKI](https://x.com/sawaratsuki1004) de igual manera!
 
-# Tools used for designing
+# Herramientas usadas para el diseño
 
 - Photoshop / Illustrator
-- Font [Eureka Font]
-- My motivation and feelings
-- Feedback posts from everyone
+- Fuente [Eureka Font]
+- La motivación y sentimientos de Sawaratsuki
+- El feedback y comentarios de todo el mundo
 
-# Acknowledgments
+# Aclaraciones y agradecimientos
 
-These logos are derivative works.  
-There is nothing better than a logo used by each official.  
-I would like to express my deepest gratitude to the people who served in this publication.
+Estos logotipos son obras derivadas.  
+No son mejores que los logotipos utilizados por los respectivos servicios oficiales.  
+Queremos expresar nuestro más profundo agradecimiento a los contributores que han publicado aquí sus logos.
 
-## Image List
+## Lista de imágenes
 
 <!-- image-list: start -->
 
-| Name                                                                                     | Image                                                                                                                                                                                                                                                                                                                                                     |
+| Nombre                                                                                   | Imagen                                                                                                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [403Forbidden](/403Forbidden)                                                            | <img src="../403Forbidden/Forbidden.png" alt="Forbidden" width="100" />                                                                                                                                                                                                                                                                                   |
 | [404Notfound](/404Notfound)                                                              | <img src="../404Notfound/NotFound.png" alt="NotFound" width="100" />                                                                                                                                                                                                                                                                                      |
@@ -147,4 +149,4 @@ I would like to express my deepest gratitude to the people who served in this pu
 
 <!-- image-list: end -->
 
-If there is any inconsistency in the README of each language, the Japanese README will take precedence.
+En caso de encontrar incoherencias en los README de los distintos idiomas, se debe tomar el README en japonés como referencia.

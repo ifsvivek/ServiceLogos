@@ -1,73 +1,76 @@
 <!-- markdownlint-disable MD026 MD033 MD041 -->
 
-[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md)
+[English README](README.md) | [日本語 README](README-ja.md) | [简体中文 README](README-zhHans.md) | [繁體中文 README](README-zhHant.md) | [Español README](README-es.md) | [README Français](README-fr.md) | [Hindi README](README-hi.md)
 
-# Archive ServiceLogos
+# ServiceLogos
+
+Shubh prabhaat,
+Is repository me alag alag services ke liye Sawaratsuki dwara daale gaye logo hai.
 
 > [!WARNING]
-> The logos here are not official logos.
+> Ye logos official nahi hai.
 
 > [!Important]
-> In no circumstances do I allow the use of a logo I created for AI learning.
+> Kisi bhi halat me in logos ka AI learning ke liye use karna mana hai.
 
 # License
 
-## If you want to use a logo, please read this section carefully.
+## Agar logo use karna hai to aage dhyaan se padhe.
 
 > [!NOTE]
 >
-> ### Summary:
+> ### Saaransh:
 >
-> - You are free to use this logo for non-commercial, non-profit purposes.
->   For example, you can print it as stickers, as icons for editors, etc.
-> - Please give the appropriate credits!
->   You are free to modify or remix it, but you must license that new work under the same license as this original logo.
-> - If you create something using this logo, mentioning me on [Twitter](https://x.com/sawaratsuki1004) when posting would be motivating!
+> - In logos ka istemaal aap aise kar sakte hai jisse apko koi laabh ya paisa na mile.
+>   Jaise ki stickers ke roop mein print karke ya editors ke icons ke roop mein, aap inka istemal kar sakte hain.
+> - Credits dena bilkul zaroori hai!
+>   Aap ise modify ya remix kar sakte hai, lekin aapko us naye logo ko original logo ke saath ek hi license ke antargat license karna hoga.
+> - Agar aap is logo ka istemal karke kuch banate hai, toh jab post karte hai tab [Sawaratsuki](https://x.com/sawaratsuki1004) ko mention karna motivation dega!
 
-### All items
+### Sab items
 
-**CC BY-NC-SA 4.0 license is not granted for logos after ## Commit[c2cf292].**  
-**The following terms apply to logos after ## Commit[c2cf292]**
+**CC BY-NC-SA 4.0 license ## Commit[c2cf292] ke baad nahi diye gaye hai**  
+**## Commit[c2cf292] ke baad yah niyam lagu honge**
 
-1. The creator of these logos is SAWATSUKI. Copyright is not fully relinquished.
-2. please make sure that
-   > - It is recommended that credits are clearly indicated.
-   > - You may alter or remix the work.
-   > - Use of the logo for commercial purposes (such as selling products using a logo) is prohibited. However, you may sell products using a logo if the following items are applicable.
+1. In logo ko SAWATSUKI ne banaya hai. Copyright puri tarah se hataya nahi gaya hai.
+2. In baato ka dhyaan rakhe
+   > - Puri tarah se credit dena acha rahega , isse utsah badhta hai.
+   > - Aap in logos ko remix ya badal sakte hai.
+   > - In logos se kisi bhi tarah se paisa kamana mana hai ( Jaise ki in logos ko use karke saman bechna). Magar aap in logos ko kuch conditions me bech sakte hai.
    >
-   > 1. when the official service wants to sell the product for commercial purposes
-   > 2. when Sawaratsuki gives permission  
-   >    (If you find any violation, please contact and report it to [@Sawaratsuki](https://x.com/sawaratsuki1004) immediately!)
-3. stickers and shirts can be used without permission within the scope of personal use!
+   > 1. "Jab us service ka official product ko commercial purposes ke liye bechna chahta hai."
+   > 2. Jab Sawaratsuki aapko agya de
+   >    (Agar aapko koi iska palan nahi karte hue milta hai to [@Sawaratsuki](https://x.com/sawaratsuki1004) se turant sampark kare)
+3. Logos ko sticker banake personal use karne pe koi manahi nahi hai.
 
-# Want a logo that's not here!
+# Koi aisa logo chahiye jo yaha nahi hai ?
 
-Please make a request in the issues. I'll create it once confirmed.
-Depending on individual schedules, I may not be able to respond immediately, so it might take several days.
+Aap is repo ke issues me bata dijiye , confirm karne ke baad ham bana denge.
+Har kisi ke schedules ke anusaar, hum turant jawaab nahi de sakte. Kuch dino tak bhi lag sakta hai.
 
 > [!IMPORTANT]  
-> When posting a request in issues, be sure to include a request tag.
+> Jab issue post kar rahe ho to request tag lagana na bhule
 
-# For officials of each service
+# Services ke officials ke liye
 
-Please send a [Direct message to me](https://x.com/sawaratsuki1004) to request a logo removal.
-I will remove it immediately.
-If you would like to sell your product officially, please send a [Direct message to me](https://x.com/sawaratsuki1004) in the same way!
+[SAWATSUKI](https://x.com/sawaratsuki1004) ko ek message bhejiye,
+Ham usse turant hata denge.
+Agar aapko apne products bechne hai to uske liye bhi [SAWATSUKI](https://x.com/sawaratsuki1004) ko ek message bhej dijiye.
 
-# Tools used for designing
+# Designing ke liye istemal kiye gaye tools
 
 - Photoshop / Illustrator
 - Font [Eureka Font]
-- My motivation and feelings
-- Feedback posts from everyone
+- Sawaratsuki ka utsah
+- Aapke vichar ke tweets (Bohot dhanyavaad!)
 
 # Acknowledgments
 
-These logos are derivative works.  
-There is nothing better than a logo used by each official.  
-I would like to express my deepest gratitude to the people who served in this publication.
+Ye logos naye creations hain.  
+Har officer ke dwaara istemal kiye gaye logos se behtar kuch nahi hai.  
+Hum is publication mein seva karne waalon ke prati apni gehri shukriya vyakt karna chaahenge.
 
-## Image List
+## Logos ka list
 
 <!-- image-list: start -->
 
@@ -147,4 +150,4 @@ I would like to express my deepest gratitude to the people who served in this pu
 
 <!-- image-list: end -->
 
-If there is any inconsistency in the README of each language, the Japanese README will take precedence.
+Agar kisi bhasa ka README me taal mel hai , to Japanese README ko sabse sahi mana jayega.
